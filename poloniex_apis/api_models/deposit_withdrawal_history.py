@@ -38,4 +38,5 @@ class DWHistory:
                 balance -= amount * ticker.get_price("BTC_" + withdrawal_symbol)
             else:
                 balance -= amount
-return balance
+        return balance
+

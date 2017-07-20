@@ -53,4 +53,5 @@ def print_dw_history(deposits, withdrawals):
     for currency in currencies:
         deposit = deposits[currency] if currency in deposits else 0
         withdrawal = withdrawals[currency] if currency in withdrawals else 0
-print("{}={}-{}={}".format(currency, deposit, withdrawal, deposit - withdrawal))
+        print("{}={}-{}={}".format(currency, deposit, withdrawal, deposit - withdrawal))
+
