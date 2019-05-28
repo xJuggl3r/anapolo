@@ -4,6 +4,8 @@
 ## What does this do?
 Queries to Poloniex API for Deposit/Withdrawal history and current balances, and then returns you percentage earned/lost.
 
+## This project is Archived/Discontinued
+
 ## Setup
 Some scripts do not require an api key. For script that require an api key...
 Copy the `api_keys.ini.example` file as `api_keys.ini` and add your api key 
