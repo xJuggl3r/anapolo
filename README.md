@@ -1,3 +1,5 @@
+# DISCONTINUED
+
 # AnaPolo by Criptonauta
 # based on PoloniexAnalyzer
 
