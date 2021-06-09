@@ -1,7 +1,7 @@
 # DISCONTINUED
 
-# AnaPolo by Criptonauta
-# based on PoloniexAnalyzer
+## AnaPolo by Criptonauta
+## based on PoloniexAnalyzer
 
 ## What does this do?
 Queries to Poloniex API for Deposit/Withdrawal history and current balances, and then returns you percentage earned/lost.
